@@ -1,3 +1,12 @@
+# News App
+
+A daily news website that can provide top headlines from desired category of news 
+
+# Demo
+![screen-capture](https://user-images.githubusercontent.com/110561155/230114723-c8b8d66b-bc59-408e-a06a-957ac8e8a741.gif)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
