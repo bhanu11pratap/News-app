@@ -5,6 +5,11 @@ A daily news website that can provide top headlines from desired category of new
 # Demo
 ![screen-capture](https://user-images.githubusercontent.com/110561155/230114723-c8b8d66b-bc59-408e-a06a-957ac8e8a741.gif)
 
+# Screenshots
+
+Its fully responsive
+![image](https://user-images.githubusercontent.com/110561155/230115648-bfd2c04b-c5af-44dc-b7d3-4bf0b5e07893.png)
+![image](https://user-images.githubusercontent.com/110561155/230116029-1e3e4486-fdc9-4251-9206-68004431ac97.png)
 
 
 # Getting Started with Create React App
